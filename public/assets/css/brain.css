@@ -1,0 +1,64 @@
+*{
+    background-color: black;    
+   } 
+   h1{
+    color: beige;
+    font-size: 30px;
+    padding-left: 165px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+   }
+  
+   h2{
+    color: beige;
+    font-size: 22px;
+    padding-left: 175px;
+    font-family: cursive;  
+    }
+    .p1{
+        font-size: 20px;
+        color: beige;
+        padding-left: 165px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-decoration: none;
+    }
+   .title{
+    color: beige;
+    font-size: 30px;
+    padding-left: 165px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+}
+.p2{
+    color: #fff;
+    padding-left: 250px;
+    font-size: 23px;
+}
+form{
+    color:#fff;
+    font-size: 25px;
+    padding-left:190px;
+    }
+    .checkbox{
+      width: 20px;
+      height: 20px;
+    }
+    .form1{
+      color: aliceblue;
+      font-size: 18px;
+      border: 0px;
+      width: 1100px;
+    }
+
+    .title2{
+      color: beige;
+      font-size: 20px;
+      padding-left: 165px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-decoration: underline;
+  }
+
+    .ol{
+      color: beige;
+      padding-left:220px;
+      font-size: 30px;
+  }

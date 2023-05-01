@@ -1,0 +1,42 @@
+*{
+    background-color: black; 
+    color: beige;
+   
+   } 
+   h1{
+    color: beige;
+    font-size: 30px;
+    padding-left: 165px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+   }
+   h2{
+    color: beige;
+    font-size: 25px;
+    padding-left: 185px;
+    font-family: cursive;  
+    }
+.ol{
+    color: beige;
+    padding-left:220px;
+    font-size: 30px;
+}
+.form1{
+  border: 0px;
+  width: 1100px;
+}
+
+   p{
+    color: beige;
+    font-size: 30px;
+    padding-left: 165px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+  form{
+    color:#fff;
+    font-size: 25px;
+    padding-left:190px;
+    }
+.checkbox{
+  width: 20px;
+  height: 20px;
+}
